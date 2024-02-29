@@ -16,7 +16,7 @@ By training the classifier on this dataset, the aim is to improve the diagnostic
 https://drive.google.com/drive/folders/19sxVfDqi2sW8QzDOdwzRXiq7qZFGqGr4?usp=sharing
 
 # To Run The Project
-Download the dataset and set the location, after that run index.py. For results, check terminal and for Modal accuracy and Modal loss check the plots.
+Download the dataset and set the location, after that run index.py. For results, check terminal and for Model accuracy and Model loss check the plots.
 ## Authors
 
 - [Harsh Tripathi](https://github.com/Hrsh404)
